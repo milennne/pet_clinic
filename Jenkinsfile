@@ -6,7 +6,7 @@ pipeline {
 
    tools {
        maven 'Maven'
-       jdk 'JAVA'
+       jdk 'Java'
        // git 'Git'
    }
 
