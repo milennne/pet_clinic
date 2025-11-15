@@ -1,6 +1,6 @@
 # Spring Boot : Application PetClinic
 
-## Features  
+## Features  feautures
 
 ### 1.  Unit Test  --> Tag v1.0.0
 
